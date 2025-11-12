@@ -1,4 +1,5 @@
 # Astra-OS-Open-Source-Site-
+<img width="1200" height="960" alt="image" src="https://github.com/user-attachments/assets/00824ad4-b8c1-4c04-87a5-efd2588c78ef" />
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Website](https://img.shields.io/badge/Website-Live-blue)](https://astra-os.com)
